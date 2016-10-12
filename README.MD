@@ -2,7 +2,7 @@
 
 《Android security handbook》 is the leading security testing and developing book for Android.
 
-Author: ziyu\gaoguofu\zhujunfeng\linzhenpei\lihuijun
+Author: ziyu\gaoguofu\zhujunfeng\linzhenpei\zhanghuijun
 
 
 ## Build Status
