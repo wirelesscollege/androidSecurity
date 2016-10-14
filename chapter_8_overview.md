@@ -40,7 +40,8 @@
 &emsp;&emsp;如下是LintCheck代码的流程图。
 
 ![Lintcheck流程](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1Lintcheck流程.png "Lintcheck流程")
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[8-1-1 Lintcheck流程]
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[8-1-1 Lintcheck流程]
 
 &emsp;&emsp;如下说明Lint检查哪些安全检测项目。
 
