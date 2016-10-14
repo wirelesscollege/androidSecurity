@@ -16,8 +16,9 @@
 ### **8.1.1 基础的Android开发能力**
 
 &emsp;&emsp;
-![基础的Android开发能力](http://path/to/img.jpg "基础的Android开发能力")
-         [8-1-1 基础的Android开发能力]
+![基础的Android开发能力](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1基础的Android开发能力.png "基础的Android开发能力")
+
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[8-1-1 基础的Android开发能力]
 
 ## **8.2 安全测试的维度**
 ## **8.3 安全测试的标准**
