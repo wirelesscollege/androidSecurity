@@ -34,12 +34,12 @@
 
 &emsp;&emsp;如上参数只是一个简单的例子，如果想自己控制Lint的各种输出和检查项，可以使用如下图内的所有可用参数。
 
-![Lint的配置属性](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1Lint的配置属性.png "Lint的配置属性")
+![Lint配置属性](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1Lint配置属性.png "Lint配置属性")
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[8-1-1 Lint的配置属性]
 
 &emsp;&emsp;如下是LintCheck代码的流程图。
 
-![Lintcheck流程](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1Lintchek流程.png "Lintcheck流程")
+![Lintcheck流程](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1Lintcheck流程.png "Lintcheck流程")
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[8-1-1 Lintcheck流程]
 
 &emsp;&emsp;如下说明Lint检查哪些安全检测项目。
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;刚刚我们运行Lint的报告会生成HTML与xml2份报告，其中xml报告可以持续集成到Jenkins平台，HTML报告我们这里打开为读者展示一下。这里我们发现了一个允许备份的安全问题。如图。
 
-![Lint检查结果](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1Lint检查结果.png "Lint检查结果")
+![Lint检查结果](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1lint检查结果.png "Lint检查结果")
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[8-1-1 Lint检查结果]
 
 
