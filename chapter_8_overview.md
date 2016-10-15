@@ -75,11 +75,11 @@
 [javaapi]: https://docs.oracle.com/javase/7/docs/api/  "javaapi"
 [androidapi]: https://developer.android.com/reference/packages.html  "androidapi"
 
-JavaAPI地址以及相关截图，如下。
+&emsp;&emsp;JavaAPI地址以及相关截图，如下。
 
 ![JavaApi](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1JavaApi.png "JavaApi")
 
-AndroidAPI地址以及相关截图，如下。
+&emsp;&emsp;AndroidAPI地址以及相关截图，如下。
 
 ![AndroidApi](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1AndroidApi.png "AndroidApi")
 
