@@ -77,7 +77,7 @@
 
 JavaAPI地址以及相关截图，如下。
 
-![JavaApi](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-JavaApi.png "JavaApi")
+![JavaApi](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1JavaApi.png "JavaApi")
 
 AndroidAPI地址以及相关截图，如下。
 
