@@ -70,6 +70,19 @@
 ![AndroidStudio插件安装](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1AndroidStudio插件安装.png "AndroidStudio插件安装")
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[8-1-1 AndroidStudio插件安装]
 
+&emsp;&emsp;以上介绍仅为你讲述了AndroidStudio插件方面的能力，你可以选择其他安全插件集成到开发工具中，下面为你介绍Android开发语言，Android主要开发语言为Java，如果是NDK开发者使用的语言为C，这里我们需要掌握Java语言的基本开发能力，了解[JavaAPI][javaapi]以及[AndroidAPI][androidapi]。
+
+[javaapi]: https://docs.oracle.com/javase/7/docs/api/  "javaapi"
+[androidapi]: https://developer.android.com/reference/packages.html  "androidapi"
+
+JavaAPI地址以及相关截图，如下。
+
+![JavaApi](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-JavaApi.png "JavaApi")
+
+AndroidAPI地址以及相关截图，如下。
+
+![AndroidApi](https://github.com/wirelesscollege/androidSecurity/blob/dev/image/8-1-1AndroidApi.png "AndroidApi")
+
 
 ## **8.2 安全测试的维度**
 ## **8.3 安全测试的标准**
